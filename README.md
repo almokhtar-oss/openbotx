@@ -1,5 +1,7 @@
 # OpenBotX
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/openbotx/openbotx)
+
 <p align="center">
     <a href="https://github.com/openbotx/openbotx" target="_blank" rel="noopener noreferrer">
         <img width="280" src="https://raw.githubusercontent.com/openbotx/openbotx/main/extras/images/logo.png" alt="OpenBotX Logo">
